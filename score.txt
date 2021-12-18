@@ -1,0 +1,2 @@
+Name: <class 'models.Player'>, Scores: 0
+Name: Player, Scores: 0
