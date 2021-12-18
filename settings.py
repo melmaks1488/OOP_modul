@@ -16,3 +16,4 @@ def show_commands():
 ALLOWED_MOVES = ('1', '2', '3')
 
 SCORE = 0
+B = 0
